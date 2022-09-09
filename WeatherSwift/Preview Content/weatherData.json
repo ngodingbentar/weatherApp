@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 110.3608,
+    "lat": -7.7828
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 302.75,
+    "feels_like": 306.19,
+    "temp_min": 302.75,
+    "temp_max": 302.75,
+    "pressure": 1010,
+    "humidity": 65,
+    "sea_level": 1010,
+    "grnd_level": 996
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.93,
+    "deg": 182,
+    "gust": 3.69
+  },
+  "clouds": {
+    "all": 95
+  },
+  "dt": 1662706262,
+  "sys": {
+    "country": "ID",
+    "sunrise": 1662676552,
+    "sunset": 1662719797
+  },
+  "timezone": 25200,
+  "id": 1621177,
+  "name": "Yogyakarta",
+  "cod": 200
+}
